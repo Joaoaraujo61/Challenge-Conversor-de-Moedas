@@ -1,8 +1,10 @@
+package br.alura.conversor.modelos;
+
 public class Conversao{
     /*private double valorASerConvertido;
     private double cotacao;
 
-    public Conversao(double cotacao, double valorASerConvertido){
+    public br.alura.conversor.modelos.Conversao(double cotacao, double valorASerConvertido){
         this.cotacao = cotacao;
         this.valorASerConvertido = valorASerConvertido;
     }*/

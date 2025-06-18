@@ -1,4 +1,5 @@
-import com.google.gson.Gson;
+package br.alura.conversor.api;
+
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
@@ -19,7 +20,7 @@ public class ConsultaApi {
         return moedaAlvo;
     }
 
-    public ConsultaApi(String moedaBase, String moedaAlvo){
+    public br.alura.conversor.api.ConsultaApi(String moedaBase, String moedaAlvo){
         this.moedaAlvo = moedaAlvo;
         this.moedaBase = moedaBase;
     }*/

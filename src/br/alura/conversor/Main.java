@@ -1,3 +1,7 @@
+package br.alura.conversor;
+
+import br.alura.conversor.api.ConsultaApi;
+import br.alura.conversor.modelos.Conversao;
 
 import java.util.Scanner;
 
