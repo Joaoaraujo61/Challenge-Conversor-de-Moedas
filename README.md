@@ -41,11 +41,8 @@ IntelliJ IDEA (ou IDE de sua preferência)
 
 ✅ Como Executar
 Clone o repositório:
-
-bash
-Copiar
-Editar
-git clone https://github.com/Joaoaraujo61/Challenge-Conversor-de-Moedas.git
+</br>
+git clone https://github.com/Joaoaraujo61/Challenge-Conversor-de-Moedas.git</br></br>
 Navegue até a pasta src e abra o projeto em sua IDE.
 
 Execute a classe Main.java
