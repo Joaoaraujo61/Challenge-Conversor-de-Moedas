@@ -1,7 +1,7 @@
-💱 Challenge Conversor de Moedas
+💱 Challenge Conversor de </br></br>Moedas
 Este projeto é um Conversor de Moedas em Java, desenvolvido como desafio para praticar conceitos como consumo de APIs externas, tratamento de exceções, manipulação de entrada de usuário e boas práticas de organização de classes.
 
-📌 Funcionalidades
+📌 Funcionalidades</br></br>
 Consulta de cotação de moedas em tempo real via API.
 
 Conversão entre as seguintes moedas:
@@ -22,17 +22,17 @@ Loop de execução contínua até o usuário decidir sair.
 css
 Copiar
 Editar
-src/
-└── br/
-└── alura/
-└── conversor/
-├── api/
-│     └── ConsultaApi.java
-├── modelos/
-│     ├── Conversao.java
-│     └── Verificacao.java
-└── Main.java
-🚀 Tecnologias Utilizadas
+src/</br>
+└── br/</br>
+└── alura/</br>
+└── conversor/</br>
+├── api/</br>
+│     └── ConsultaApi.java</br>
+├── modelos/</br>
+│     ├── Conversao.java</br>
+│     └── Verificacao.java</br>
+└── Main.java</br>
+🚀 Tecnologias Utilizadas</br>
 Java 17
 
 API pública para consulta de câmbio (Exemplo: exchangerate-api.com)
