@@ -9,7 +9,7 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class ConsultaApi {
-    private String moedaBase;
+   /* private String moedaBase;
     private String moedaAlvo;
 
     public String getMoedaBase(){
@@ -22,8 +22,8 @@ public class ConsultaApi {
     public ConsultaApi(String moedaBase, String moedaAlvo){
         this.moedaAlvo = moedaAlvo;
         this.moedaBase = moedaBase;
-    }
-    public double buscaCotacao(){
+    }*/
+    public double buscaCotacao(String moedaBase, String moedaAlvo){
         String apiKey = System.getenv("API_KEY_EXCHANGE");
         URI endereco =  URI.create("https://v6.exchangerate-api.com/v6/" + apiKey + "/latest/" + moedaBase);
 
