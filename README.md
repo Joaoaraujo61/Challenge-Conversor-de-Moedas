@@ -1,4 +1,4 @@
-💱 Challenge Conversor de </br></br>Moedas
+💱 Challenge Conversor de Moedas</br></br>
 Este projeto é um Conversor de Moedas em Java, desenvolvido como desafio para praticar conceitos como consumo de APIs externas, tratamento de exceções, manipulação de entrada de usuário e boas práticas de organização de classes.
 
 📌 Funcionalidades</br></br>
